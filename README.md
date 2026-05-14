@@ -28,17 +28,16 @@ This project was developed as part of the CMPT213 course, demonstrating Java pro
 ## Installation
 1. Clone the repository:  
    ```bash
-   https://github.com/AyushArora10hg/TokimonMemoryGame---CMPT213.git
+   git clone https://github.com/AyushArora10hg/TokimonMemoryGame.git
 2. Open the project in your IDE (IntelliJ, Eclipse, etc.).
 3. Build the server with Maven:
    ```bash
    mvn clean install
-4. Run the Spring Boot server:
-   ```bash
-   mvn spring-boot:run
-5. Build and run the JavaFX client:
+   ```
+4. Build and run the JavaFX game:
    ```bash
    mvn javafx:run
+   ```
 
 ---
 
